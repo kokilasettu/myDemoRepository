@@ -1,6 +1,7 @@
-public class Abc {
- public static void main(String args[])
+public class Abc
 {
-System.out.println("Hello World");
-}
+    public static void main(String args[])
+    {
+     system.out.println("hii everyone");
+    }
 }
